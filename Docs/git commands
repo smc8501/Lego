@@ -1,0 +1,14 @@
+git init - init the git file into your pc, into the folder that contains the work (git file is .git and it is a hiden file)
+
+git add . - add all changes
+
+git commit -m "something" - commit the change
+
+git remote add origin the https of the remote -you need to do just first time when you add the remote that you are working on
+
+git push -u origin master - push (you need to do just first time when you add the remote that you are working on)
+
+
+git push - you can do it to push after you did (git push -u origin master)
+
+git log - you can see all the commits done
